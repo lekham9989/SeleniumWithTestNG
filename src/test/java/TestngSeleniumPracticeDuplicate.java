@@ -58,7 +58,7 @@ public class TestngSeleniumPracticeDuplicate {
 
     @Test
     public void closeBrowser(){
-        System.out.println("Closing Browser");
+        System.out.println("Closing Browser With Changes");
 
     }
 
